@@ -6,6 +6,10 @@ Atuo no CRECI Espírito Santo, um dos únicos conselhos do Brasil que possui sis
 
 Planejo soluções para dores recorrentes nas aplicações e crio funcionalidades que resolvem problemas do trabalho cotidiano — transformando gargalos repetitivos em fluxos mais simples, automatizados e eficientes.
 
+Meus projetos em andamento estão privados, para apresentação, entre em contato.
+
+Veja algum dos exercícios que faço para fixar conhecimentos.
+
 ## Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
